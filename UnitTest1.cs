@@ -9,7 +9,7 @@ namespace RestshapApi_automation
     public class Tests
     {
         private RestClient _client;
-        //ashu
+        
         [SetUp]
         public void Setup()
         {
