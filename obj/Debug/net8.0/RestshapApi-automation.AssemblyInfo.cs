@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestshapApi-automation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e15a3a7bb8e67165431c4a35ffb1f1972a9cac5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestshapApi-automation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestshapApi-automation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

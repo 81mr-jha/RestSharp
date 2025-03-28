@@ -110,3 +110,4 @@ C:\Users\User\source\repos\RestshapApi-automation\RestshapApi-automation\obj\Deb
 C:\Users\User\source\repos\RestshapApi-automation\RestshapApi-automation\obj\Debug\net8.0\RestshapApi-automation.pdb
 C:\Users\User\source\repos\RestshapApi-automation\RestshapApi-automation\obj\Debug\net8.0\RestshapApi-automation.genruntimeconfig.cache
 C:\Users\User\source\repos\RestshapApi-automation\RestshapApi-automation\obj\Debug\net8.0\ref\RestshapApi-automation.dll
+C:\Users\User\source\repos\RestshapApi-automation\RestshapApi-automation\obj\Debug\net8.0\RestshapApi-automation.sourcelink.json
